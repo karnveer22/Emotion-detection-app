@@ -1,1 +1,2 @@
 # Emotion-detection-app
+A Python application that analyzes text input and detects the underlying emotion — anger, disgust, fear, joy, or sadness — using IBM Watson NLP's emotion prediction service. Given a sentence, the app returns a score for each emotion along with the dominant (strongest) emotion detected, making it useful for sentiment analysis, customer feedback processing, or content moderation.
